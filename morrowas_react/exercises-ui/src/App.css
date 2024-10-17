@@ -1,0 +1,43 @@
+.App-link {
+  color: #61dafb;
+}
+
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #008080;
+  color: #d3d3d3;
+  margin: 5%;
+  padding: 6%;
+  border: solid #d3d3d3;
+  font-size: 20px;
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr th {
+  border: solid #d3d3d3;
+  padding: 10px;
+  color: #B0E0E6;
+}
+
+tr td {
+  border: solid #d3d3d3;
+  padding: 10px;
+  color: #FFE4C4;
+}
+
+input {
+  font-family: Verdana, sans-serif;
+}
+
+select {
+  font-family: Verdana, sans-serif;
+}
+
+button {
+  font-family: Verdana, sans-serif;
+}
